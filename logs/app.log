@@ -1,0 +1,109 @@
+2018-07-10 01:07:07.027 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-10-10 01:10:29.584 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-16-10 01:16:34.506 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-29-10 01:29:02.300 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-29-10 01:29:02.308 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-33-10 01:33:49.111 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-33-10 01:33:49.117 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-45-10 01:45:58.928 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-45-10 01:45:58.938 [main] INFO  by.task.first.create.SphereCreator - sphere created
+2018-12-10 02:12:01.619 [main] INFO  by.task.first.create.SphereCreator - sphere 1 created
+2018-12-10 02:12:01.624 [main] INFO  by.task.first.create.SphereCreator - sphere 2 created
+2018-17-10 02:17:43.421 [main] INFO  by.task.first.create.SphereCreator - sphere 1 created
+2018-17-10 02:17:43.428 [main] INFO  by.task.first.create.SphereCreator - sphere 2 created
+2018-22-11 20:22:54.937 [main] INFO  by.task.first.create.SphereCreator - sphere 1 created
+2018-22-11 20:22:54.943 [main] INFO  by.task.first.create.SphereCreator - sphere 2 created
+2018-33-11 20:33:02.927 [main] INFO  by.task.first.create.SphereCreator - sphere 1 created
+2018-33-11 20:33:02.932 [main] INFO  by.task.first.create.SphereCreator - sphere 2 created
+2018-34-11 20:34:10.898 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-39-11 20:39:51.472 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-39-11 20:39:51.477 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-40-11 20:40:40.435 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-40-11 20:40:40.438 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-44-11 20:44:48.274 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-44-11 20:44:48.277 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-48-11 21:48:44.067 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-48-11 21:48:44.070 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-48-11 21:48:44.071 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-03-12 15:03:38.735 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-03-12 15:03:38.741 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-03-12 15:03:38.741 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-06-12 15:06:18.541 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-06-12 15:06:18.545 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-06-12 15:06:18.545 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-26-16 21:26:50.343 [main] FATAL by.task.first.readers.DataReader - file cant be opened
+2018-05-16 22:05:19.557 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-43-16 23:43:29.321 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-44-16 23:44:58.113 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-45-16 23:45:12.268 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-54-19 20:54:47.570 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-55-19 20:55:09.843 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-55-19 20:55:09.847 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-55-19 20:55:09.847 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-56-19 20:56:07.041 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-56-19 20:56:07.046 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-56-19 20:56:07.046 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-00-19 21:00:02.144 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-00-19 21:00:02.147 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-00-19 21:00:02.147 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-04-19 21:04:44.395 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-04-19 21:04:44.399 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-04-19 21:04:44.399 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-52-19 22:52:28.059 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-52-19 22:52:28.063 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-52-19 22:52:28.063 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-12-19 23:12:07.594 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-12-19 23:12:07.599 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-12-19 23:12:07.599 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-15-19 23:15:47.577 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-15-19 23:15:47.582 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-15-19 23:15:47.582 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-20-19 23:20:00.739 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-20-19 23:20:00.744 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-20-19 23:20:00.744 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-20-19 23:20:30.366 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-20-19 23:20:30.370 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-20-19 23:20:30.370 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-22-19 23:22:59.498 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-22-19 23:22:59.502 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-22-19 23:22:59.502 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-24-19 23:24:22.884 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-24-19 23:24:22.887 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-24-19 23:24:22.888 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-25-19 23:25:22.159 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-25-19 23:25:22.163 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-25-19 23:25:22.164 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-26-19 23:26:24.129 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-26-19 23:26:24.134 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-26-19 23:26:24.135 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-39-19 23:39:35.720 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-39-19 23:39:35.723 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-39-19 23:39:35.723 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-18-20 00:18:26.650 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-18-20 00:18:26.663 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-18-20 00:18:26.664 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-19-20 00:19:36.855 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-19-20 00:19:36.859 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-19-20 00:19:36.859 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-09-20 02:09:08.533 [main] FATAL by.task.first.readers.DataReader - file cant be opened
+2018-13-20 02:13:14.563 [main] FATAL by.task.first.readers.DataReader - file cant be opened
+2018-14-20 02:14:08.918 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-14-20 02:14:08.922 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-14-20 02:14:08.923 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-14-20 02:14:40.993 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-14-20 02:14:40.997 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-14-20 02:14:40.997 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-15-20 02:15:40.937 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-15-20 02:15:40.942 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-15-20 02:15:40.943 [main] INFO  by.task.first.create.SphereCreator - sphere 1000002 created
+2018-34-20 19:34:26.355 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-34-20 19:34:26.361 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
+2018-45-20 21:45:59.328 [main] FATAL by.task.first.readers.DataReader - file cant be opened
+2018-31-20 22:31:49.722 [main] INFO  by.task.first.create.SphereCreator - sphere 1000003 created
+2018-31-20 22:31:49.728 [main] INFO  by.task.first.create.SphereCreator - sphere 1000004 created
+2018-31-20 22:31:49.728 [main] INFO  by.task.first.create.SphereCreator - sphere 1000005 created
+2018-35-20 22:35:53.098 [main] INFO  by.task.first.create.SphereCreator - sphere 1000003 created
+2018-35-20 22:35:53.105 [main] INFO  by.task.first.create.SphereCreator - sphere 1000004 created
+2018-35-20 22:35:53.105 [main] INFO  by.task.first.create.SphereCreator - sphere 1000005 created
+2018-39-20 22:39:03.741 [main] INFO  by.task.first.create.SphereCreator - sphere 1000000 created
+2018-39-20 22:39:03.745 [main] INFO  by.task.first.create.SphereCreator - sphere 1000001 created
